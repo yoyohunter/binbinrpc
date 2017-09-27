@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bin-client" />
+        <module name="bin-common" />
+        <module name="bin-console" />
+        <module name="bin-example" />
+        <module name="bin-monitor" />
+        <module name="bin-reginsty-default" />
+        <module name="bin-registry" />
+        <module name="bin-remoting" />
+        <module name="bin-spring-support" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bin-client" target="1.7" />
+      <module name="bin-common" target="1.7" />
+      <module name="bin-console" target="1.7" />
+      <module name="bin-example" target="1.7" />
+      <module name="bin-monitor" target="1.7" />
+      <module name="bin-reginsty-default" target="1.7" />
+      <module name="bin-registry" target="1.7" />
+      <module name="bin-remoting" target="1.7" />
+      <module name="bin-rpc" target="1.7" />
+      <module name="bin-spring-support" target="1.7" />
+      <module name="binbin-rpc" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bin-client/bin-client.iml" filepath="$PROJECT_DIR$/bin-client/bin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin-common/bin-common.iml" filepath="$PROJECT_DIR$/bin-common/bin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin-console/bin-console.iml" filepath="$PROJECT_DIR$/bin-console/bin-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin-example/bin-example.iml" filepath="$PROJECT_DIR$/bin-example/bin-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin-monitor/bin-monitor.iml" filepath="$PROJECT_DIR$/bin-monitor/bin-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin-reginsty-default/bin-reginsty-default.iml" filepath="$PROJECT_DIR$/bin-reginsty-default/bin-reginsty-default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin-registry/bin-registry.iml" filepath="$PROJECT_DIR$/bin-registry/bin-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin-remoting/bin-remoting.iml" filepath="$PROJECT_DIR$/bin-remoting/bin-remoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bin-spring-support/bin-spring-support.iml" filepath="$PROJECT_DIR$/bin-spring-support/bin-spring-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binbin-rpc.iml" filepath="$PROJECT_DIR$/binbin-rpc.iml" />
+    </modules>
+  </component>
+</project>
